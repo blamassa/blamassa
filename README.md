@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 ### About me
 
-I am an Energy Engineering student with interests in the fields of Data Science and Artificial Intelligence. As academic and professional goals, I aim to unite those areas and explore the usage of data analysis as decision making tools for the energy industry.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-esteves-lamassa/)](https://www.linkedin.com/in/breno-esteves-lamassa/)
+[![Gmail Badge](https://img.shields.io/badge/-breno@lamassa.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:breno@lamassa.com.br)](mailto:breno@lamassa.com.br)
+
+
+I am an Energy Engineering student with interests in the fields of Data Science and Artificial Intelligence. As academic and professional goals, I aim to unite those areas and explore the usage of data analysis as decision making tools for the energy industry and society.
 
 **Previous work experiences:**
 - Between 2018 and 2019 I worked as a Data Scientist generating data analysis and developing machine learning models for defaults prediction in the electric power market. (Brazil)
