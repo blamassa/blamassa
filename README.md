@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+An Energy Engineering student with interests in the fields of Data Science and Artificial Intelligence. As academic and professional goals, I aim to unite those areas and explore the usage of data analysis as decision making tools for the energy industry.
+
+Previous work experiences:
+- Between 2018 and 2019 I worked as a Data Scientist generating data analysis and developing machine learning models for defaults prediction in the electric power market. (Brazil)
+- During 2020 I worked in the LNG business both as a LNG Trading Analyst and Commercial Operator. There, I was able to bbring value to the team through data analysis of the gas market, development of a global LNG supply and demand model with predictive functionality to support decision making and digitalization of processes. (Austria)
+
+Recently I transferred my studies to Politecnico di Torino (Italy) in order to finish my degree in Energy Engineering.
