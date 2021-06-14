@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### A bit about me
+### About me
 
 I am an Energy Engineering student with interests in the fields of Data Science and Artificial Intelligence. As academic and professional goals, I aim to unite those areas and explore the usage of data analysis as decision making tools for the energy industry.
 
